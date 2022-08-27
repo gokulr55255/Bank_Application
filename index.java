@@ -1,4 +1,4 @@
-import bank.*;
+package bank;
 import java.util.*;
 
 public class index {
